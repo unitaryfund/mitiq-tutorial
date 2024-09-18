@@ -14,16 +14,7 @@ There are two main ways for getting set up that we recommend to follow along liv
 
 Of course, you are welcome to set up in any other way you'd like if you feel more comfortable with another method.
 
-### Locally
-
-To get set up locally, you'll need to
-
-1. `git clone` this repo
-2. [Optional, but recommended] Set up a new virtual environment to ensure no dependency conflicts.
-3. Install the necessary dependencies `pip install mitiq`
-4. Load up the jupyter notebook for [part 1](./part1.ipynb)
-
-### Remotely
+### Remotely (easiest way)
 
 To follow along on your own computer, without installing anything locally, navigate to https://github.com/unitaryfund/mitiq-tutorial/.
 
@@ -34,6 +25,15 @@ To follow along on your own computer, without installing anything locally, navig
 
 You're ready!
 Happy mitigating!
+
+### Locally
+
+To get set up locally, you'll need to
+
+1. `git clone` this repo
+2. [Optional, but recommended] Set up a new virtual environment to ensure no dependency conflicts.
+3. Install the necessary dependencies `pip install mitiq`
+4. Load up the jupyter notebook for [part 1](./part1.ipynb)
 
 ## Resources
 
